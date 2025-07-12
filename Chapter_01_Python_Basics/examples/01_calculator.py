@@ -1,0 +1,8 @@
+print(2 + 3 * 4)
+print((2 + 3) * 4)
+print("Hello" + "World")
+print("ha" * 5)
+print("ha" * 5 + "ho")
+print("ha" * 5 + "ho" * 3)
+print("ha" * (5 + 3))
+print("ha" * (5 + 3) + "ho" * 3)
